@@ -5,14 +5,14 @@ let etapas = [
         candidatos: [
         {
             numero: '38111',
-            nome: 'LIN FIO FERRUBRABO',
+            nome: 'ANDRE SOUZA',
             partido: 'PPI'
         }
         ]
     },
     {
             numero: '77221',
-            nome: 'LIN FIO KANU',
+            nome: 'ANA MARIA',
             partido: 'IUO'
     },
 
@@ -25,17 +25,17 @@ let etapas = [
             {
 
                 numero: '99',
-                nome:'KYU TI PLANTUNABO',
+                nome:'PAULO GOMES',
                 partido: 'NUQ',
-                vice: 'CIRAO FALAMERDA'
+                vice: 'VALDEMIR ANDRADE'
             },
 
             {
 
                 numero: '13 ',
-                nome:'ATAKA FERRUNA RACHADA',
+                nome:'LUIZA CLAUDIA',
                 partido:'OHC',
-                vice: 'ZUCRANO LI'
+                vice: 'IVAN BRAGA'
             }
         ]
     }
